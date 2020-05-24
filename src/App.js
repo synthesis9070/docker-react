@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Locally at my Macbook. This is fun!
+          Learn React at GitHub Feature Branch. This is fun!
         </a>
       </header>
     </div>
